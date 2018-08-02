@@ -3,3 +3,7 @@
 .RData
 .Ruserdata
 plots_imaging/
+plots_clinical/
+rsconnect/
+scripts/
+
